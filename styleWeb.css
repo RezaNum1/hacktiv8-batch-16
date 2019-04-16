@@ -1,0 +1,124 @@
+img{
+    width: 100px;
+    height: 100px;
+    margin: 5px 0px 0px 5px;
+}
+
+
+
+.col{
+    margin-top: 30px;
+    font-style: initial;
+    color: white;
+    font-weight: bold;
+    
+}
+.logo{
+    font-size: 20px;
+    font-family: fantasy;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    font-style: oblique;
+}
+
+.box{
+    height: 500px;
+    background-image: url("back2.png");
+    background-size: cover;
+}
+
+.fill{
+    margin-top: 50px;
+    color:gold;
+    border: 5px solid;
+    width: 18cm;
+    height: 5cm;
+    position: relative;
+    left: 300px;
+}
+
+.text-head{
+    font-weight: bold;
+}
+
+.text-bot{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.but{
+    position: relative;
+    left: 300px;
+}
+
+.bodys{
+    position: relative;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.hobby{
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+    color:orange;
+}
+
+hr{
+    border: 0;
+    border-top: 1px dashed #8c8c8c;
+    text-align: center;
+}
+
+hr:after{
+    content: '\002702';
+    display: inline-block;
+    position: relative;
+    top: -13px;
+    padding: 0 3px;
+    background: #fff;
+    color: #8c8c8c;
+    font-size: 18px;
+}
+
+#logo{
+    background-color:crimson;
+    height: 100px;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 30px;
+    color: wheat;
+    font-family: 'Press Start 2P', cursive;
+}
+
+#sos{
+    background-color: crimson;
+    height: 100px;
+}
+
+#text2{
+    font-size: 20px;
+}
+
+h5{
+    font-family: 'Press Start 2P', cursive;
+    color: wheat;
+}
+
+.media{
+    background-color:whitesmoke;
+}
+
+.footer{
+    margin-top: 30px;
+}
+
+.form{
+    top: 3cm;
+    background-color: white;
+    position: relative;
+    width: 13cm;
+    height: 8cm;
+    margin-bottom: 7cm;
+}
